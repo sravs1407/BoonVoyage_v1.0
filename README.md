@@ -8,7 +8,7 @@ We face a lot of problems such as a vehicle getting a flat tire, concerns about 
 
 We aim to address and solve these problems using the technology at our disposal. Our goal is to ensure safety and provide essential services through a platform-as-a-service that brings together a network of people.
 
-##Solution: Boon Voyage Platform
+***Solution: Boon Voyage Platform***
 
 **Idea Map of Boon Voyage**
 ![Screenshot 2024-01-02 122703](https://github.com/sravs1407/BoonVoyage_v1.0/assets/95563750/66dca0ae-171b-4f73-bd1f-9acd72e8f3f1)
