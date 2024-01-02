@@ -15,6 +15,8 @@ We aim to address and solve these problems using the technology at our disposal.
 
 
 
+*Link to the presentation slides* : https://www.canva.com/design/DAFR2MkhN-I/kIGBnAH-1xpsR4ZaUPgR9Q/view?utm_content=DAFR2MkhN-I&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 The Boon Voyage platform is designed to accommodate both Users and Service providers in one place. It comprises several applications tailored to specific needs:
 
 1. **Boon Voyage Travel Companion:**
